@@ -28,8 +28,7 @@ def ralsei():
 	#14 = red
 	#15= black
 
-	#areaclear
-	mc.setBlocks(x, y, z, x+25, y+60, z+8, 0)
+	
 	#row 1
 	mc.setBlocks(x+4, y, z, x+10, y, z, 35, 13)
 	mc.setBlocks(x+13, y, z, x+18, y, z, 35, 13)
