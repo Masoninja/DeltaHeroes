@@ -3,7 +3,7 @@ from mcpi import block
 import random
 import time
 
-mc = Minecraft.create()
+mc = Minecraft.create() #put --"ip-address", portnumber-- in these parenthasis for remote usage
 x, y, z = mc.player.getTilePos()
 
 def ralsei():
